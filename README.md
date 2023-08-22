@@ -6,5 +6,5 @@ i am currently working on NanaicaMC
 <br></br>
 ![Profile Views](https://komarev.com/ghpvc/?username=1029944061626421359&color=blue&style=for-the-badge)
 [
-[![Discord Presence](https://lanyard.cnrad.dev/api/1029944061626421359?showDisplayName=true)](https://discord.com/user/pancakse
+[![Discord Presence](https://lanyard.cnrad.dev/api/1029944061626421359?showDisplayName=true)](https://discord.com/user/1029944061626421359
 ![Stats](https://img.shields.io/badge/0%25-OPTIMIZED-orange?style=for-the-badge
